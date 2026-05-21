@@ -11,7 +11,7 @@
 - 💻 **Skills**: Learner in Computer Science.
  <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,mysql,htmx,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,mysql,htmx,vscode,sql" />
   </a>
 
 
